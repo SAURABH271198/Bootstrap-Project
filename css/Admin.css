@@ -1,0 +1,19 @@
+.main
+{
+   
+    padding:20px;
+}
+.placeholders
+{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.placeholder
+{
+    margin-bottom:20px;
+}
+.placeholder img
+{
+    display:inline;
+    border-radius:50%;
+}
